@@ -57,9 +57,6 @@ cd bank-gui
 Run the App
 python bank_gui.py
 
-🖼️ Screenshots
-
-👉 (Add your actual screenshots here — e.g., home screen, create account, deposit window, transaction bill)
 
 🔮 Future Improvements
 
